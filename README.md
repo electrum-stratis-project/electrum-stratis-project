@@ -30,7 +30,7 @@ All versions, installers and checksums are on the [v2.7.19 release page](https:/
 
 Electrum-Stratis is a self-custody desktop wallet for the legacy Stratis chain, forked from Electrum and released under the MIT licence. It runs on Windows, macOS and Linux, keeps keys on your machine, restores from a seed and moves legacy STRAT that wallets built for the current chain no longer serve. This account holds the wallet itself, its release and the guides written for it.
 
-## Popular guides
+## Popular guides.
 
 <div align="center">
 
